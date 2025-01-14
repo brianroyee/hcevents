@@ -106,7 +106,7 @@ const HackClubEvent = () => {
             <h1 className="text-6xl font-bold leading-tight">
               Project
               <br />
-              A.S.A.P
+              A.S.A.P: Accquire Skills, Acheive Projects
             </h1>
             
             <p className="text-xl text-gray-300">
@@ -129,7 +129,7 @@ const HackClubEvent = () => {
           <div className="w-[75%] relative" style={{ aspectRatio: '3/4' }}>
             {/* Replace the src attribute with your poster image path */}
             <img 
-              src="/api/placeholder/600/800" 
+              src="poster.jpeg" 
               alt="Event Poster"
               className="absolute inset-0 w-full h-full object-cover rounded-lg shadow-2xl opacity-0"
             />
